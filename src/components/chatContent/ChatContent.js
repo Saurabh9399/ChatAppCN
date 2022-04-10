@@ -79,7 +79,7 @@ export default class ChatContent extends Component {
             type: "",
             msg: this.state.msg,
             image:
-              "https://files.codingninjas.com/profile173053f4ad7ce4e39fba39619822a22c2da3d2.jpeg",
+              "https://files.codingninjas.com/profile222036934d05e227a58051a87bd1b9ef7639ed.jpg",
           });
           this.setState({ chat: [...this.chatItms] });
           this.scrollToBottom();
