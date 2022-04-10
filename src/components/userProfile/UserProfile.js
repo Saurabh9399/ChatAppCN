@@ -10,7 +10,7 @@ export default class UserProfile extends Component {
       <div className="main__userprofile">
         <div className="profile__card user__profile__image">
           <div className="profile__image">
-            <img src="https://files.codingninjas.com/profile173053f4ad7ce4e39fba39619822a22c2da3d2.jpeg" />
+            <img src="https://files.codingninjas.com/profile222036934d05e227a58051a87bd1b9ef7639ed.jpg" />
           </div>
           <h4>Fernando Faucho</h4>
           <p>CEO & Founder at Highly Inc</p>

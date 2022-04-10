@@ -10,7 +10,7 @@ export default class ChatContent extends Component {
     {
       key: 1,
       image:
-        "https://files.codingninjas.com/profile173053f4ad7ce4e39fba39619822a22c2da3d2.jpeg",
+        "https://files.codingninjas.com/profile222036934d05e227a58051a87bd1b9ef7639ed.jpg",
       type: "",
       msg: "Hi Tim, How are you?",
     },
@@ -31,7 +31,7 @@ export default class ChatContent extends Component {
     {
       key: 4,
       image:
-        "https://files.codingninjas.com/profile173053f4ad7ce4e39fba39619822a22c2da3d2.jpeg",
+        "https://files.codingninjas.com/profile222036934d05e227a58051a87bd1b9ef7639ed.jpg",
       type: "",
       msg: "Awesome these days.",
     },
@@ -45,7 +45,7 @@ export default class ChatContent extends Component {
     {
       key: 6,
       image:
-        "https://files.codingninjas.com/profile173053f4ad7ce4e39fba39619822a22c2da3d2.jpeg",
+        "https://files.codingninjas.com/profile222036934d05e227a58051a87bd1b9ef7639ed.jpg",
       type: "",
       msg: "what plan mate?",
     },
